@@ -1,4 +1,5 @@
 This is a fork of ppso (version 0.9994) from https://www.rforge.net/ppso/
+
 Originally written and maintained by Till Franke.
 ======================================================================
 
@@ -10,7 +11,7 @@ The parallelized version builds on Rmpi and is intended for highly computational
 Another focus of this package is the possibility to resume interrupted optimization runs from the intermediate project files.
 These features make this package useful for the automatic calibration of complex numerical models (e.g. hydrological models). 
 
-For bug fixes, comments or further development please contact: franke@uni-potsdam.de or mreich@posteo.de.
+For bug fixes, comments or further development please open an issue or contact: franke@uni-potsdam.de or mreich@posteo.de.
 
 ## Installation
 
