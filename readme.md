@@ -2,6 +2,7 @@ Particle Swarm Optimization and Dynamically Dimensioned Search, optionally using
 ======================================================================
 
 **This is a fork of ppso (version 0.9994) from https://www.rforge.net/ppso/**
+
 **Originally written and maintained by Till Franke**
 
 ## Description
