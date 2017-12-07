@@ -1,9 +1,8 @@
 Particle Swarm Optimization and Dynamically Dimensioned Search, optionally using parallel computing based on Rmpi
 ======================================================================
 
-# This is a fork of ppso (version 0.9994) from https://www.rforge.net/ppso/ #
-
-Originally written and maintained by Till Franke.
+** This is a fork of ppso (version 0.9994) from https://www.rforge.net/ppso/ **
+** Originally written and maintained by Till Franke **
 
 ## Description
 (Optionally parallelized) optimization using PSO (Particle Swarm Optimzation) or DDS (Dynamically Dimensioned Search) algorithms, which excell for multidimensional (multi-parameter) functions with many local extrema and a restricted number of function evaluations.
